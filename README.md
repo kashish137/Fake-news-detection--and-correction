@@ -1,2 +1,2 @@
 # Fake-news-detection--and-correction
-use to detect fake news and detect it 
+use to detect fake news and correct it 
